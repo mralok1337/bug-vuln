@@ -1,0 +1,12 @@
+
+Dork : inurl:"aboutThisPublishingSystem" "Open Journal Systems”
+
+
+//// PATH
+/ojsdata/journals/1/articles/560/submission/560-2790-1-SM.phtml
+/files/journals/1/articles/560/submission/original/560-2790-1-SM.phtml
+e	560-2790-1-SM.phtml
+
+
+ 
+	

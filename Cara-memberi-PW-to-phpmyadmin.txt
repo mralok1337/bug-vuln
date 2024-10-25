@@ -1,0 +1,12 @@
+USE mysql;
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'alokadmin1';
+
+FLUSH PRIVILEGES;
+
+
+config to cookie 
+root 
+'' to 'alokadmin1'
+
+

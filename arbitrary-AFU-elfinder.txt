@@ -1,0 +1,15 @@
+elFinder 2.1.x source version with PHP connector ==> https://github.com/Studio-42/elFinder/wiki/Client-configuration-optionsdefaultOpts
+
+
+inurl:
+kcfinder/elfinder/elfinder.html
+
+
+
+inurl:
+/packages/tugumuda/js/elfinder/elfinder.html#elf_l1_Lw
+/assets/elFinder/elfinder.src.php#elf_l1_Lw
+/packages/tugumuda/js/elfinder/elfinder.html#elf_l1_Lw
+
+fla pharr asp shtml phtml
+upload .php .php3 .php6 .txt .html .pl .htaccess shell.php funtion_class.php

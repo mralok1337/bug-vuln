@@ -1,0 +1,2 @@
+command 
+nmap -T4 -sV --script http-sql-injection testphp.103.165.41.10

